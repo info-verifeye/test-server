@@ -1,0 +1,11 @@
+
+This is a readMe file for verifeye-nodejs test server stub used as preliminary example of integration 
+
+step#1: install dependencies and build project with npm by running "npm install" in the desired location
+step#2: start the stub by running "node test-server.js"
+step#3: monitor console log and desired upload folder location for data
+step#4: modify test-server for you application
+
+
+Best of luck!
+
